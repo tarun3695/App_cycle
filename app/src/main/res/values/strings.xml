@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App cycle</string>
+    <string name="oncreate_is_called">OnCreate() is called</string>
+    <string name="onstart_is_called">onStart()is called</string>
+    <string name="onresume_is_called">onResume() is called</string>
+    <string name="onpause_is_called">onPause()is called</string>
+    <string name="onrestart_is_called">onRestart()is called</string>
+    <string name="activity_life_cycle">Activity LIFE CYCLE</string>
+</resources>
